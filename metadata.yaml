@@ -1,0 +1,36 @@
+_repo: La-naissance-et-l-evanouissement-de-la-matiere_67253
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bohn, Georges
+    gutenberg_agent_id: '54173'
+    url: http://www.gutenberg.org/2009/agents/54173
+creator:
+  author:
+    agent_name: Le Bon, Gustave
+    alias: Bon, Gustave Le
+    birthdate: 1841
+    deathdate: 1931
+    gutenberg_agent_id: '239'
+    url: http://www.gutenberg.org/2009/agents/239
+    wikipedia: https://en.wikipedia.org/wiki/Gustave_Le_Bon
+description: ''
+gutenberg_issued: '2022-01-26'
+identifiers:
+  gutenberg: '67253'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k62393b
+pgterms:marc905: 20061210102822bon
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Adrian Mastronardi and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Société du mercure de France,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La naissance et l'évanouissement de la matière
+url: http://www.gutenberg.org/ebooks/67253
