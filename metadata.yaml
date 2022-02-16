@@ -5,6 +5,9 @@ contributor:
     agent_name: Bohn, Georges
     gutenberg_agent_id: '54173'
     url: http://www.gutenberg.org/2009/agents/54173
+covers:
+- cover_type: archival
+  image_path: 67253-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Bon, Gustave
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/239
     wikipedia: https://en.wikipedia.org/wiki/Gustave_Le_Bon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67253#La-naissance-et-l-evanouissement-de-la-matiere
 gutenberg_issued: '2022-01-26'
 identifiers:
   gutenberg: '67253'
